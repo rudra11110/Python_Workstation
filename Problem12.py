@@ -1,0 +1,11 @@
+#set
+s=set()
+n=input("enter n")
+s.add(int(n))
+n=input("enter n")
+s.add(int(n))
+n=input("enter n")
+s.add(int(n))
+n=input("enter n")
+s.add(int(n))
+print(s)
